@@ -1,3 +1,3 @@
 # Shell
 The command shell of the operating system
-![alt text](shell.png "Описание будет тут")
+![alt text](Shell.png "Описание будет тут")
